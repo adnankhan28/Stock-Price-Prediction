@@ -64,4 +64,3 @@ Desktop Support Engineer aspiring Data Scientist
 ```bash
 pip install streamlit pandas scikit-learn matplotlib joblib
 streamlit run streamlit_app.py
-
